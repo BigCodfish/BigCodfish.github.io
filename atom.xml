@@ -64,42 +64,4 @@
     
   </entry>
   
-  <entry>
-    <title>hello</title>
-    <link href="http://yoursite.com/2020/03/29/hello/"/>
-    <id>http://yoursite.com/2020/03/29/hello/</id>
-    <published>2020-03-29T10:05:25.000Z</published>
-    <updated>2020-03-30T05:40:36.123Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2020/03/29/hello-world/"/>
-    <id>http://yoursite.com/2020/03/29/hello-world/</id>
-    <published>2020-03-29T09:03:12.664Z</published>
-    <updated>2020-03-29T09:03:12.664Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
 </feed>
