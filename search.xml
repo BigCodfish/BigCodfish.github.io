@@ -5,6 +5,7 @@
     <url>/2020/04/07/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/</url>
     <content><![CDATA[<h2 id="最小生成树-加权无向图（算法第四版）"><a class="header-anchor" href="#最小生成树-加权无向图（算法第四版）"></a>最小生成树 - 加权无向图（算法第四版）</h2>
 <a id="more"></a>
+<p>![upload successful](\images\pasted-0.png)</p>
 <h3 id="约定"><a class="header-anchor" href="#约定"></a>约定</h3>
 <p>这里只简单的介绍一般情况下的最小生成树问题，因此最加权图数据做了一些规定：</p>
 <ol>
